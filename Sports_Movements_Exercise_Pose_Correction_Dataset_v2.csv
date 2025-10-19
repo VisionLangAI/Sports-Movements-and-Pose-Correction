@@ -1,51 +1,51 @@
-user_id,age,gender,height_cm,weight_kg,experience_level,exercise_name,exercise_category,difficulty_level,repetitions,set_number,movement_name,pose_velocity,tempo_alignment,balance_score,smoothness_index,accuracy_score,form_consistency,error_type,error_magnitude,correction_suggestion,correction_confidence,pre_session_score,post_session_score,improvement_rate,overall_performance_rating,feedback_helpfulness,session_outcome
-U001,24,Female,178,88,Intermediate,Lunge,Upper Body,3,9,1,Dribble,1.33,0.69,0.61,0.96,0.78,0.64,Elbow misalignment,0.18,Slow down movement,0.93,61.74,87.79,0.44,7.63,3.28,Pass
-U002,37,Male,164,81,Advanced,Plank,Core,2,19,2,Jump,0.68,0.52,0.93,0.74,0.98,0.53,None,0.09,Maintain posture,0.73,65.96,73.07,0.31,7.3,3.53,Pass
-U003,32,Female,150,53,Beginner,Push-Up,Core,2,17,2,Throw,0.75,0.98,0.71,0.65,0.76,0.93,Knee over toe,0.12,Straighten back,0.85,52,97.56,0.17,6.35,3.53,Pass
-U004,28,Male,174,79,Beginner,Squat,Upper Body,2,10,1,Kick,1.49,0.91,0.65,0.66,0.81,0.91,None,0.46,Keep knees behind toes,0.98,56.87,93.7,0.22,8.53,4.46,Pass
-U005,25,Male,156,86,Beginner,Plank,Lower Body,1,8,3,Kick,0.1,0.9,0.88,0.9,0.85,1,Elbow misalignment,0.21,Slow down movement,0.8,66.29,70.69,0.22,8.94,3.5,Pass
-U006,38,Female,158,72,Advanced,Plank,Upper Body,1,15,2,Run,0.36,0.81,0.85,0.85,0.73,1,Elbow misalignment,0.36,Maintain posture,0.88,62.95,89.54,0.26,9.39,4.27,Needs Improvement
-U007,24,Male,173,88,Intermediate,Squat,Lower Body,1,10,2,Throw,0.64,0.61,0.95,0.64,0.81,0.78,Elbow misalignment,0.5,Correct arm angle,0.81,59.98,93.14,0.27,6.49,3.99,Pass
-U008,36,Female,150,64,Intermediate,Push-Up,Core,3,19,2,Dribble,1.41,0.76,0.89,0.63,0.79,0.88,None,0.69,Straighten back,0.84,71.92,81.23,0.42,9.51,4.15,Pass
-U009,28,Female,157,78,Beginner,Squat,Lower Body,5,17,1,Stretch,0.2,0.8,0.92,0.88,0.95,0.97,Knee over toe,0.04,Slow down movement,0.86,70.81,72.07,0.24,8.57,4.68,Pass
-U010,28,Female,173,85,Intermediate,Plank,Lower Body,2,14,2,Run,0.11,0.76,0.71,0.63,0.52,0.92,Knee over toe,0.8,Slow down movement,0.86,55,72.32,0.29,8.82,3.81,Pass
-U011,38,Female,160,62,Intermediate,Sit-Up,Lower Body,2,17,3,Dribble,0.17,0.63,0.67,0.93,0.64,0.62,None,0.63,Keep knees behind toes,0.76,76.36,73.13,0.35,9.64,4.54,Needs Improvement
-U012,21,Female,166,81,Advanced,Sit-Up,Core,3,12,2,Swing,0.22,0.76,0.9,0.88,0.98,0.73,Knee over toe,0.08,Keep knees behind toes,0.91,64.86,95.21,0.25,8.5,3.84,Needs Improvement
-U013,25,Female,157,56,Advanced,Lunge,Core,2,17,2,Lift,0.15,0.75,0.92,0.63,0.95,0.56,None,0.87,Correct arm angle,0.73,72.24,97.32,0.43,7.34,3.71,Needs Improvement
-U014,20,Female,184,71,Advanced,Squat,Lower Body,1,12,3,Dribble,0.77,1,1,0.63,0.73,0.98,Knee over toe,0.92,Correct arm angle,0.74,67.19,73.68,0.33,9.3,4.92,Needs Improvement
-U015,39,Female,184,77,Advanced,Squat,Lower Body,5,14,2,Throw,0.91,0.95,0.77,0.99,0.81,0.8,Rounded back,0.06,Maintain posture,0.7,79.93,77.08,0.22,7.45,3.37,Pass
-U016,38,Female,182,51,Beginner,Lunge,Upper Body,4,16,1,Run,0.48,0.73,0.75,0.75,0.64,0.61,Rounded back,0.28,Maintain posture,0.74,72.57,74.97,0.39,6.14,3.18,Needs Improvement
-U017,19,Female,154,55,Advanced,Lunge,Lower Body,2,19,1,Throw,0.66,0.81,0.91,0.75,0.59,0.84,Elbow misalignment,0.81,Correct arm angle,0.84,71.21,75.59,0.31,9.32,4.54,Pass
-U018,29,Female,188,77,Intermediate,Lunge,Upper Body,1,12,1,Run,0.23,0.87,0.74,0.93,0.73,0.81,Rounded back,0.75,Correct arm angle,0.88,73.36,95.12,0.31,7.38,3.14,Pass
-U019,23,Male,177,77,Beginner,Plank,Lower Body,4,8,3,Dribble,0.57,0.52,0.97,0.98,0.68,0.68,Rounded back,0.18,Straighten back,0.94,54.29,79.96,0.29,9.1,4.67,Pass
-U020,19,Male,156,69,Intermediate,Squat,Upper Body,5,17,2,Jump,0.83,0.95,0.94,0.99,0.79,0.56,Rounded back,0.21,Keep knees behind toes,0.73,56.14,79.34,0.3,7.45,3.87,Pass
-U021,38,Female,158,79,Intermediate,Plank,Core,4,17,1,Swing,1.13,0.93,0.77,0.9,0.54,0.84,None,0.37,Maintain posture,0.96,71.42,76.82,0.41,9.44,4.83,Pass
-U022,18,Female,157,60,Intermediate,Lunge,Lower Body,1,8,3,Dribble,0.1,0.73,0.9,0.75,0.99,0.76,Rounded back,0.48,Keep knees behind toes,0.92,64.82,88.24,0.14,6.88,4.44,Needs Improvement
-U023,29,Female,161,77,Advanced,Squat,Lower Body,4,9,2,Kick,0.75,0.7,0.9,0.63,0.99,0.89,Rounded back,0.62,Keep knees behind toes,0.82,72.64,81.38,0.23,9.9,4.22,Needs Improvement
-U024,39,Female,183,74,Advanced,Plank,Lower Body,3,13,3,Throw,0.52,0.64,0.64,0.91,0.85,0.76,Elbow misalignment,0.37,Correct arm angle,0.98,53.09,92.33,0.13,9.12,4.9,Needs Improvement
-U025,29,Female,182,88,Beginner,Plank,Lower Body,4,16,1,Lift,1.29,0.74,0.96,0.82,0.77,0.93,Rounded back,0.46,Straighten back,1,66.09,76.17,0.4,6.46,3.79,Needs Improvement
-U026,34,Female,172,82,Beginner,Lunge,Upper Body,2,15,1,Lift,1.1,0.52,0.8,0.77,0.65,0.78,Rounded back,0.75,Slow down movement,0.76,61.36,93.63,0.21,8.26,4.91,Pass
-U027,27,Female,173,50,Advanced,Squat,Lower Body,2,12,1,Stretch,0.92,0.93,0.93,0.96,0.91,0.78,Knee over toe,0.04,Straighten back,0.81,63.71,88.11,0.46,9.94,3.27,Needs Improvement
-U028,33,Female,186,76,Intermediate,Lunge,Core,3,8,3,Run,0.49,0.52,0.73,0.64,0.84,0.94,Elbow misalignment,0.25,Straighten back,0.98,68.12,73.43,0.31,7.88,3.97,Pass
-U029,32,Male,184,62,Beginner,Squat,Core,1,14,3,Throw,1.37,0.66,0.96,0.8,0.58,0.7,Elbow misalignment,0.71,Keep knees behind toes,0.92,65.07,82.44,0.42,6.73,3.54,Needs Improvement
-U030,32,Female,189,52,Advanced,Sit-Up,Lower Body,2,12,1,Stretch,0.16,0.97,0.76,0.6,0.96,0.57,Elbow misalignment,0.9,Straighten back,0.71,66.2,95.91,0.49,7.94,4.08,Pass
-U031,36,Male,171,88,Advanced,Push-Up,Core,5,13,3,Throw,0.25,0.87,0.6,0.79,0.91,0.51,Elbow misalignment,0.51,Maintain posture,0.93,64.59,97.69,0.44,8.05,3.32,Pass
-U032,29,Female,176,55,Advanced,Push-Up,Lower Body,2,14,1,Kick,0.65,0.64,0.96,0.62,0.97,0.88,Elbow misalignment,0.53,Keep knees behind toes,0.95,62.27,83.97,0.45,8.97,4.68,Needs Improvement
-U033,37,Female,184,57,Intermediate,Push-Up,Lower Body,2,10,1,Run,0.27,0.63,0.64,0.65,0.86,0.81,Elbow misalignment,0.11,Maintain posture,0.93,73.16,84.43,0.26,8.8,4.69,Pass
-U034,20,Male,150,76,Advanced,Lunge,Core,1,19,2,Dribble,1.44,0.5,0.73,0.65,0.81,0.85,None,0.45,Slow down movement,0.94,50.37,97.55,0.32,7.61,4.91,Pass
-U035,22,Female,184,58,Advanced,Sit-Up,Lower Body,4,17,3,Dribble,1.22,0.85,0.98,0.86,0.71,0.61,Rounded back,0.53,Keep knees behind toes,0.95,67.95,87.61,0.2,6.87,3.31,Needs Improvement
-U036,36,Male,186,86,Advanced,Squat,Core,2,10,1,Lift,0.46,0.52,0.98,0.9,0.97,0.57,Elbow misalignment,0.24,Slow down movement,0.76,66.97,70.99,0.18,8.58,4.25,Pass
-U037,24,Female,163,82,Advanced,Plank,Upper Body,3,12,1,Dribble,0.92,0.77,0.83,0.83,0.93,0.51,Rounded back,0.27,Keep knees behind toes,0.77,71.49,97.38,0.3,7.69,3.95,Needs Improvement
-U038,38,Female,152,73,Beginner,Squat,Lower Body,4,13,3,Dribble,1.48,0.98,0.85,0.98,0.52,0.68,Rounded back,0.38,Correct arm angle,0.89,67.97,77.45,0.34,6.53,3.69,Needs Improvement
-U039,26,Male,150,64,Beginner,Plank,Upper Body,5,16,2,Kick,1.34,0.55,0.78,0.75,0.51,0.79,None,0.02,Straighten back,0.97,74.8,87.33,0.24,9.6,3.7,Needs Improvement
-U040,24,Female,154,81,Advanced,Squat,Core,1,19,2,Jump,0.94,0.95,0.72,0.71,0.69,0.7,Elbow misalignment,0.32,Correct arm angle,0.79,78.77,74.97,0.33,8.76,3.83,Pass
-U041,35,Male,175,81,Intermediate,Sit-Up,Upper Body,5,12,1,Lift,1.37,1,0.73,0.95,0.91,0.72,Knee over toe,0.21,Slow down movement,0.88,60.28,71.02,0.45,8.73,4.41,Pass
-U042,21,Female,163,73,Beginner,Plank,Upper Body,4,8,3,Stretch,1.48,0.53,0.87,0.69,0.99,0.95,None,0.33,Straighten back,0.9,56.82,79.34,0.32,9.29,4.2,Pass
-U043,31,Male,188,61,Advanced,Lunge,Core,4,11,2,Swing,1.14,0.94,0.9,0.99,0.58,0.67,Knee over toe,0.12,Keep knees behind toes,0.84,62.71,93.41,0.39,8.12,3.92,Needs Improvement
-U044,35,Male,176,88,Beginner,Squat,Upper Body,4,12,3,Jump,0.19,0.76,0.92,0.6,0.8,0.76,Rounded back,0.89,Straighten back,0.91,58.64,78.33,0.42,9.26,3.15,Pass
-U045,26,Female,158,51,Beginner,Squat,Upper Body,5,19,3,Stretch,0.66,0.95,0.92,0.99,0.69,0.89,Rounded back,0.59,Maintain posture,0.97,68.45,76.6,0.5,7.99,3.16,Needs Improvement
-U046,38,Female,164,52,Intermediate,Plank,Core,4,17,1,Run,1.27,0.79,0.64,0.62,0.98,0.7,None,0.68,Straighten back,0.89,77.36,76.38,0.34,6.27,3,Needs Improvement
-U047,19,Male,164,86,Advanced,Lunge,Upper Body,5,17,2,Jump,0.42,0.83,0.8,0.96,0.92,0.81,None,0.79,Maintain posture,0.86,54.17,85.46,0.42,7.62,4.94,Pass
-U048,37,Female,175,66,Advanced,Lunge,Core,4,12,1,Kick,1.26,0.77,0.62,0.81,0.92,0.93,Knee over toe,0.5,Straighten back,0.83,53.02,99.27,0.49,7.99,3.01,Needs Improvement
-U049,32,Female,162,51,Intermediate,Sit-Up,Upper Body,3,14,2,Stretch,0.27,0.93,0.82,1,0.73,0.97,Elbow misalignment,0.09,Maintain posture,0.87,57.68,83.77,0.48,8.88,3.21,Pass
-U050,24,Female,181,51,Intermediate,Lunge,Core,4,11,2,Run,0.17,0.87,0.78,0.63,0.71,0.57,Knee over toe,0.54,Slow down movement,0.81,71.78,86.72,0.16,6.43,3.63,Pass
+age,gender,height_cm,weight_kg,experience_level,exercise_name,exercise_category,difficulty_level,repetitions,set_number,movement_name,pose_velocity,tempo_alignment,balance_score,smoothness_index,accuracy_score,form_consistency,error_type,error_magnitude,correction_suggestion,correction_confidence,pre_session_score,post_session_score,improvement_rate,overall_performance_rating,feedback_helpfulness,session_outcome
+24,Female,178,88,Intermediate,Lunge,Upper Body,3,9,1,Dribble,1.33,0.69,0.61,0.96,0.78,0.64,Elbow misalignment,0.18,Slow down movement,0.93,61.74,87.79,0.44,7.63,3.28,Pass
+37,Male,164,81,Advanced,Plank,Core,2,19,2,Jump,0.68,0.52,0.93,0.74,0.98,0.53,None,0.09,Maintain posture,0.73,65.96,73.07,0.31,7.3,3.53,Pass
+32,Female,150,53,Beginner,Push-Up,Core,2,17,2,Throw,0.75,0.98,0.71,0.65,0.76,0.93,Knee over toe,0.12,Straighten back,0.85,52,97.56,0.17,6.35,3.53,Pass
+28,Male,174,79,Beginner,Squat,Upper Body,2,10,1,Kick,1.49,0.91,0.65,0.66,0.81,0.91,None,0.46,Keep knees behind toes,0.98,56.87,93.7,0.22,8.53,4.46,Pass
+25,Male,156,86,Beginner,Plank,Lower Body,1,8,3,Kick,0.1,0.9,0.88,0.9,0.85,1,Elbow misalignment,0.21,Slow down movement,0.8,66.29,70.69,0.22,8.94,3.5,Pass
+38,Female,158,72,Advanced,Plank,Upper Body,1,15,2,Run,0.36,0.81,0.85,0.85,0.73,1,Elbow misalignment,0.36,Maintain posture,0.88,62.95,89.54,0.26,9.39,4.27,Needs Improvement
+24,Male,173,88,Intermediate,Squat,Lower Body,1,10,2,Throw,0.64,0.61,0.95,0.64,0.81,0.78,Elbow misalignment,0.5,Correct arm angle,0.81,59.98,93.14,0.27,6.49,3.99,Pass
+36,Female,150,64,Intermediate,Push-Up,Core,3,19,2,Dribble,1.41,0.76,0.89,0.63,0.79,0.88,None,0.69,Straighten back,0.84,71.92,81.23,0.42,9.51,4.15,Pass
+28,Female,157,78,Beginner,Squat,Lower Body,5,17,1,Stretch,0.2,0.8,0.92,0.88,0.95,0.97,Knee over toe,0.04,Slow down movement,0.86,70.81,72.07,0.24,8.57,4.68,Pass
+28,Female,173,85,Intermediate,Plank,Lower Body,2,14,2,Run,0.11,0.76,0.71,0.63,0.52,0.92,Knee over toe,0.8,Slow down movement,0.86,55,72.32,0.29,8.82,3.81,Pass
+38,Female,160,62,Intermediate,Sit-Up,Lower Body,2,17,3,Dribble,0.17,0.63,0.67,0.93,0.64,0.62,None,0.63,Keep knees behind toes,0.76,76.36,73.13,0.35,9.64,4.54,Needs Improvement
+21,Female,166,81,Advanced,Sit-Up,Core,3,12,2,Swing,0.22,0.76,0.9,0.88,0.98,0.73,Knee over toe,0.08,Keep knees behind toes,0.91,64.86,95.21,0.25,8.5,3.84,Needs Improvement
+25,Female,157,56,Advanced,Lunge,Core,2,17,2,Lift,0.15,0.75,0.92,0.63,0.95,0.56,None,0.87,Correct arm angle,0.73,72.24,97.32,0.43,7.34,3.71,Needs Improvement
+20,Female,184,71,Advanced,Squat,Lower Body,1,12,3,Dribble,0.77,1,1,0.63,0.73,0.98,Knee over toe,0.92,Correct arm angle,0.74,67.19,73.68,0.33,9.3,4.92,Needs Improvement
+39,Female,184,77,Advanced,Squat,Lower Body,5,14,2,Throw,0.91,0.95,0.77,0.99,0.81,0.8,Rounded back,0.06,Maintain posture,0.7,79.93,77.08,0.22,7.45,3.37,Pass
+38,Female,182,51,Beginner,Lunge,Upper Body,4,16,1,Run,0.48,0.73,0.75,0.75,0.64,0.61,Rounded back,0.28,Maintain posture,0.74,72.57,74.97,0.39,6.14,3.18,Needs Improvement
+19,Female,154,55,Advanced,Lunge,Lower Body,2,19,1,Throw,0.66,0.81,0.91,0.75,0.59,0.84,Elbow misalignment,0.81,Correct arm angle,0.84,71.21,75.59,0.31,9.32,4.54,Pass
+29,Female,188,77,Intermediate,Lunge,Upper Body,1,12,1,Run,0.23,0.87,0.74,0.93,0.73,0.81,Rounded back,0.75,Correct arm angle,0.88,73.36,95.12,0.31,7.38,3.14,Pass
+23,Male,177,77,Beginner,Plank,Lower Body,4,8,3,Dribble,0.57,0.52,0.97,0.98,0.68,0.68,Rounded back,0.18,Straighten back,0.94,54.29,79.96,0.29,9.1,4.67,Pass
+19,Male,156,69,Intermediate,Squat,Upper Body,5,17,2,Jump,0.83,0.95,0.94,0.99,0.79,0.56,Rounded back,0.21,Keep knees behind toes,0.73,56.14,79.34,0.3,7.45,3.87,Pass
+38,Female,158,79,Intermediate,Plank,Core,4,17,1,Swing,1.13,0.93,0.77,0.9,0.54,0.84,None,0.37,Maintain posture,0.96,71.42,76.82,0.41,9.44,4.83,Pass
+18,Female,157,60,Intermediate,Lunge,Lower Body,1,8,3,Dribble,0.1,0.73,0.9,0.75,0.99,0.76,Rounded back,0.48,Keep knees behind toes,0.92,64.82,88.24,0.14,6.88,4.44,Needs Improvement
+29,Female,161,77,Advanced,Squat,Lower Body,4,9,2,Kick,0.75,0.7,0.9,0.63,0.99,0.89,Rounded back,0.62,Keep knees behind toes,0.82,72.64,81.38,0.23,9.9,4.22,Needs Improvement
+39,Female,183,74,Advanced,Plank,Lower Body,3,13,3,Throw,0.52,0.64,0.64,0.91,0.85,0.76,Elbow misalignment,0.37,Correct arm angle,0.98,53.09,92.33,0.13,9.12,4.9,Needs Improvement
+29,Female,182,88,Beginner,Plank,Lower Body,4,16,1,Lift,1.29,0.74,0.96,0.82,0.77,0.93,Rounded back,0.46,Straighten back,1,66.09,76.17,0.4,6.46,3.79,Needs Improvement
+34,Female,172,82,Beginner,Lunge,Upper Body,2,15,1,Lift,1.1,0.52,0.8,0.77,0.65,0.78,Rounded back,0.75,Slow down movement,0.76,61.36,93.63,0.21,8.26,4.91,Pass
+27,Female,173,50,Advanced,Squat,Lower Body,2,12,1,Stretch,0.92,0.93,0.93,0.96,0.91,0.78,Knee over toe,0.04,Straighten back,0.81,63.71,88.11,0.46,9.94,3.27,Needs Improvement
+33,Female,186,76,Intermediate,Lunge,Core,3,8,3,Run,0.49,0.52,0.73,0.64,0.84,0.94,Elbow misalignment,0.25,Straighten back,0.98,68.12,73.43,0.31,7.88,3.97,Pass
+32,Male,184,62,Beginner,Squat,Core,1,14,3,Throw,1.37,0.66,0.96,0.8,0.58,0.7,Elbow misalignment,0.71,Keep knees behind toes,0.92,65.07,82.44,0.42,6.73,3.54,Needs Improvement
+32,Female,189,52,Advanced,Sit-Up,Lower Body,2,12,1,Stretch,0.16,0.97,0.76,0.6,0.96,0.57,Elbow misalignment,0.9,Straighten back,0.71,66.2,95.91,0.49,7.94,4.08,Pass
+36,Male,171,88,Advanced,Push-Up,Core,5,13,3,Throw,0.25,0.87,0.6,0.79,0.91,0.51,Elbow misalignment,0.51,Maintain posture,0.93,64.59,97.69,0.44,8.05,3.32,Pass
+29,Female,176,55,Advanced,Push-Up,Lower Body,2,14,1,Kick,0.65,0.64,0.96,0.62,0.97,0.88,Elbow misalignment,0.53,Keep knees behind toes,0.95,62.27,83.97,0.45,8.97,4.68,Needs Improvement
+37,Female,184,57,Intermediate,Push-Up,Lower Body,2,10,1,Run,0.27,0.63,0.64,0.65,0.86,0.81,Elbow misalignment,0.11,Maintain posture,0.93,73.16,84.43,0.26,8.8,4.69,Pass
+20,Male,150,76,Advanced,Lunge,Core,1,19,2,Dribble,1.44,0.5,0.73,0.65,0.81,0.85,None,0.45,Slow down movement,0.94,50.37,97.55,0.32,7.61,4.91,Pass
+22,Female,184,58,Advanced,Sit-Up,Lower Body,4,17,3,Dribble,1.22,0.85,0.98,0.86,0.71,0.61,Rounded back,0.53,Keep knees behind toes,0.95,67.95,87.61,0.2,6.87,3.31,Needs Improvement
+36,Male,186,86,Advanced,Squat,Core,2,10,1,Lift,0.46,0.52,0.98,0.9,0.97,0.57,Elbow misalignment,0.24,Slow down movement,0.76,66.97,70.99,0.18,8.58,4.25,Pass
+24,Female,163,82,Advanced,Plank,Upper Body,3,12,1,Dribble,0.92,0.77,0.83,0.83,0.93,0.51,Rounded back,0.27,Keep knees behind toes,0.77,71.49,97.38,0.3,7.69,3.95,Needs Improvement
+38,Female,152,73,Beginner,Squat,Lower Body,4,13,3,Dribble,1.48,0.98,0.85,0.98,0.52,0.68,Rounded back,0.38,Correct arm angle,0.89,67.97,77.45,0.34,6.53,3.69,Needs Improvement
+26,Male,150,64,Beginner,Plank,Upper Body,5,16,2,Kick,1.34,0.55,0.78,0.75,0.51,0.79,None,0.02,Straighten back,0.97,74.8,87.33,0.24,9.6,3.7,Needs Improvement
+24,Female,154,81,Advanced,Squat,Core,1,19,2,Jump,0.94,0.95,0.72,0.71,0.69,0.7,Elbow misalignment,0.32,Correct arm angle,0.79,78.77,74.97,0.33,8.76,3.83,Pass
+35,Male,175,81,Intermediate,Sit-Up,Upper Body,5,12,1,Lift,1.37,1,0.73,0.95,0.91,0.72,Knee over toe,0.21,Slow down movement,0.88,60.28,71.02,0.45,8.73,4.41,Pass
+21,Female,163,73,Beginner,Plank,Upper Body,4,8,3,Stretch,1.48,0.53,0.87,0.69,0.99,0.95,None,0.33,Straighten back,0.9,56.82,79.34,0.32,9.29,4.2,Pass
+31,Male,188,61,Advanced,Lunge,Core,4,11,2,Swing,1.14,0.94,0.9,0.99,0.58,0.67,Knee over toe,0.12,Keep knees behind toes,0.84,62.71,93.41,0.39,8.12,3.92,Needs Improvement
+35,Male,176,88,Beginner,Squat,Upper Body,4,12,3,Jump,0.19,0.76,0.92,0.6,0.8,0.76,Rounded back,0.89,Straighten back,0.91,58.64,78.33,0.42,9.26,3.15,Pass
+26,Female,158,51,Beginner,Squat,Upper Body,5,19,3,Stretch,0.66,0.95,0.92,0.99,0.69,0.89,Rounded back,0.59,Maintain posture,0.97,68.45,76.6,0.5,7.99,3.16,Needs Improvement
+38,Female,164,52,Intermediate,Plank,Core,4,17,1,Run,1.27,0.79,0.64,0.62,0.98,0.7,None,0.68,Straighten back,0.89,77.36,76.38,0.34,6.27,3,Needs Improvement
+19,Male,164,86,Advanced,Lunge,Upper Body,5,17,2,Jump,0.42,0.83,0.8,0.96,0.92,0.81,None,0.79,Maintain posture,0.86,54.17,85.46,0.42,7.62,4.94,Pass
+37,Female,175,66,Advanced,Lunge,Core,4,12,1,Kick,1.26,0.77,0.62,0.81,0.92,0.93,Knee over toe,0.5,Straighten back,0.83,53.02,99.27,0.49,7.99,3.01,Needs Improvement
+32,Female,162,51,Intermediate,Sit-Up,Upper Body,3,14,2,Stretch,0.27,0.93,0.82,1,0.73,0.97,Elbow misalignment,0.09,Maintain posture,0.87,57.68,83.77,0.48,8.88,3.21,Pass
+24,Female,181,51,Intermediate,Lunge,Core,4,11,2,Run,0.17,0.87,0.78,0.63,0.71,0.57,Knee over toe,0.54,Slow down movement,0.81,71.78,86.72,0.16,6.43,3.63,Pass
